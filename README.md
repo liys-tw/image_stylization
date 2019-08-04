@@ -8,7 +8,7 @@ implements the paper "A Learned Representation for Artistic Style":
 Manjunath Kudlur*.
 
 # Setup
-Whether you want to stylize an image with one of our pre-trained models or train your own model, you need to set up your enviroment, install [requirements.txt](/requirements.md).
+Whether you want to stylize an image with one of our pre-trained models or train your own model, you need to set up your enviroment, install [requirements.txt](/requirements.txt).
 
 # Jupyter notebook
 There is a Jupyter notebook [Image_Stylization.ipynb](/Image_Stylization.ipynb) showing how to apply style transfer from a trained model.
