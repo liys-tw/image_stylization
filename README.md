@@ -104,3 +104,6 @@ $ image_stylization_finetune \
       --vgg_checkpoint=/path/to/vgg_16.ckpt \
       --imagenet_data_dir=/path/to/imagenet-2012-tfrecord
 ```
+
+# References
+* [**Image Stylization**](https://github.com/tensorflow/magenta/blob/master/magenta/models/image_stylization): A "Multistyle Pastiche Generator" that generates artistics representations of photographs. Described in [*A Learned Representation For Artistic Style*](https://arxiv.org/abs/1610.07629).
