@@ -1,3 +1,6 @@
+# vgg checkpoint
+vgg_checkpoint/vgg_16.ckpt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
